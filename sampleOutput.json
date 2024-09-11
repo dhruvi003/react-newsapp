@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "MV Sounion: US says tanker attacked by Houthis could be leaking oil",
+            "description": "The Greek-flagged MV Sounion is on fire after being attacked several times last week, the Pentagon says.",
+            "url": "https://www.bbc.co.uk/news/articles/c9wjx5ndnvdo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78d9/live/1a9bc070-64c3-11ef-8c32-f3c2bc7494c6.jpg",
+            "publishedAt": "2024-08-28T09:07:20.2779786Z",
+            "content": "They have reportedly sunk two ships and killed at least two crew members in that time.\r\nThey have claimed - often falsely - that they are targeting ships only linked to Israel, the US or the UK.\r\nThe… [+970 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why has badminton become a code for sex in Hong Kong?",
+            "description": "The education bureau suggests teens who want to have sex could \"go out to play badminton together\" instead.",
+            "url": "https://www.bbc.co.uk/news/articles/c4glreq44y1o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a01/live/e01f45d0-6511-11ef-aa02-77f1a7028b9d.jpg",
+            "publishedAt": "2024-08-28T09:07:19.0126685Z",
+            "content": "For some people it was also about the practicalities. \r\nMP Doreen Kong said the documents showed that the education bureau did not understand young people. She specifically criticised the badminton s… [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "South Korea faces deepfake porn 'emergency'",
+            "description": "The president has addressed the growing epidemic after Telegram users were found exchanging doctored photos of underage girls.",
+            "url": "https://www.bbc.co.uk/news/articles/cg4yerrg451o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03dd/live/8cde0b00-64f2-11ef-b43e-6916dcba5cbf.jpg",
+            "publishedAt": "2024-08-28T08:07:15.4022066Z",
+            "content": "To build a \"healthy media culture\", President Yoon said young men needed to be better educated.\r\nAlthough it is often dismissed as just a prank, it is clearly a criminal act that exploits technology … [+1188 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "First Jan 6 rioter to enter Capitol building sentenced to prison",
+            "description": "Michael Sparks jumped through a window and chased a police officer. He was given a term of more than four years.",
+            "url": "https://www.bbc.co.uk/news/articles/cgedz9lrld8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0fd6/live/47f6ca80-64bc-11ef-b5c8-b171af35840c.png",
+            "publishedAt": "2024-08-28T07:37:13.996732Z",
+            "content": "Before traveling to Washington from his home in Cecilia, Kentucky, Sparks had written a number of messages online including \"We want a civil war to be clear\" and \"It's time to drag them out of Congre… [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump special counsel files new election interference indictment",
+            "description": "The charges are in response to a Supreme Court ruling that presidents enjoy broad immunity for official acts.",
+            "url": "https://www.bbc.co.uk/news/articles/czdpq4en1vvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6b14/live/45104600-64b4-11ef-b970-9f202720b57a.jpg",
+            "publishedAt": "2024-08-28T07:07:11.9496361Z",
+            "content": "The new indictment, brought by Department of Justice Special Counsel Jack Smith, leaves in place the four crimes Trump is accused of committing: Conspiracy to defraud the US, conspiracy to obstruct a… [+5438 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Predator posing as YouTuber jailed for sextortion of hundreds",
+            "description": "Muhammad Zain Ul Abideen Rasheed blackmailed 286 people - majority of them children - from 20 countries.",
+            "url": "https://www.bbc.co.uk/news/articles/cp35z4z08qvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a65/live/de530460-64dc-11ef-8440-1778a0e6530a.jpg",
+            "publishedAt": "2024-08-28T03:07:12.2781495Z",
+            "content": "\"The callous disregard this man had for his victims around the world and their distress, humiliation and fear make it one of the most horrific sextortion cases prosecuted in Australia,\" said Australi… [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nigeria’s Black Axe mafia dealt 'big blow' by Interpol",
+            "description": "A series of covert operations target a feared Nigerian cyber-crime network with a global reach.",
+            "url": "https://www.bbc.co.uk/news/articles/c984w8jr1glo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f9a/live/4c8a5c20-6079-11ef-b43e-6916dcba5cbf.jpg",
+            "publishedAt": "2024-08-28T01:07:15.3883801Z",
+            "content": "Despite multiple international arrests, some experts feel not enough is being done to address the root of these crime syndicates in West Africa.\r\nThe emphasis must actually be on prevention not on ou… [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why Harris campaign is fighting for unmuted debate mics",
+            "description": "The campaign believe live microphones would work in their favour, and are seeking a rule change with just two weeks to go.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w79w380dwo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/74a0/live/bcee29c0-6479-11ef-b43e-6916dcba5cbf.jpg",
+            "publishedAt": "2024-08-27T19:07:17.0292869Z",
+            "content": "\"The reason she's saying to unmute the mics is because Trump is uncontrolled,\" Ameshia Cross, a Democratic strategist and political analyst, told the BBC. \r\nMs Cross said Trump's rallies and Truth So… [+1762 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Boy accidentally smashes 3,500-year-old jar on museum visit",
+            "description": "It was on display near the entrance of the museum without glass when the accident happened.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg2j2y20epo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/233c/live/1426f7d0-6489-11ef-a742-630667543078.jpg",
+            "publishedAt": "2024-08-27T16:22:13.4649453Z",
+            "content": "The Hecht Museum said the incident happened a few days ago when the boy, aged about four or five, was visiting the museum.\r\n\"There are instances where display items are intentionally damaged, and suc… [+612 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Zuckerberg regrets bowing to White House 'pressure' over Covid",
+            "description": "The billionaire says White House officials pressured Meta to remove content 'for months' in 2021.",
+            "url": "https://www.bbc.co.uk/news/articles/czxlpjlgdzjo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e1db/live/659aed50-6453-11ef-91f3-273f9f80a920.jpg",
+            "publishedAt": "2024-08-27T10:37:17.2911468Z",
+            "content": "Meta boss Mark Zuckerberg says he regrets bowing to what he said was pressure from the Biden administration to \"censor\" content on Facebook and Instagram during the coronavirus pandemic.\r\nIn a letter… [+1677 chars]"
+        }
+    ]
+}
